@@ -34,7 +34,7 @@ def kus_golgesi():
 
 def balik_golgesi():
     """Fish shadow"""
-    return """
+    return r"""
       ><(((*>
     """
 
