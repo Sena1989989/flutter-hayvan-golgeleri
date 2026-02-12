@@ -2,6 +2,40 @@
 
 Hayvan Gölgeleri (Animal Shadows) - Hayvan gölgelerini ASCII sanatı olarak gösteren basit bir Python programı.
 
+## Visual Studio'da Açma (Opening in Visual Studio)
+
+### Visual Studio (Windows)
+
+1. **Python desteğini yükleyin (Install Python support):**
+   - Visual Studio Installer'ı açın
+   - "Python development" workload'unu yükleyin
+
+2. **Projeyi açın (Open the project):**
+   - Visual Studio'yu açın
+   - `File` → `Open` → `Project/Solution`
+   - `hayvan_golgeleri.sln` dosyasını seçin
+
+3. **Çalıştırın (Run):**
+   - `F5` tuşuna basın veya
+   - `Debug` → `Start Debugging`
+
+### Visual Studio Code (Tüm platformlar / All platforms)
+
+1. **VS Code'u açın (Open VS Code)**
+
+2. **Workspace'i açın (Open workspace):**
+   - `File` → `Open Workspace from File`
+   - `hayvan_golgeleri.code-workspace` dosyasını seçin
+
+3. **Veya klasörü açın (Or open folder):**
+   - `File` → `Open Folder`
+   - `hayvan_golgeleri` klasörünü seçin
+
+4. **Çalıştırın (Run):**
+   - `F5` tuşuna basın veya
+   - `Run` → `Start Debugging`
+   - Veya terminalde: `python3 hayvan_golgeleri.py`
+
 ## Çalıştırma (Running)
 
 Programı çalıştırmak için:
