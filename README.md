@@ -1,2 +1,3 @@
-# hayvan_golgeleri
-golgeler
+# flutter-hayvan-golgeleri
+
+Flutter egitim projesi: hayvan golgeleri.
